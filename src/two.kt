@@ -2,6 +2,8 @@
 
 fun main(args: Array<String>) {
 
+
+    //Объявление переменной, которая хранит дроби
     var numberOne = 15.0
     var numberTwo = 3.0
 
